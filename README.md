@@ -1,6 +1,6 @@
 # Link
 
-- [Github](https://github.com/wipeseals)
-- [BlueSky](https://bsky.app/profile/azarashi.moe)
+- [GitHub](https://github.com/wipeseals)
+- [Bluesky](https://bsky.app/profile/azarashi.moe)
 - [Twitter](https://twitter.com/wipeseals)
 - [Misskey.io](https://misskey.io/@wipeseals)
