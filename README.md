@@ -1,16 +1,22 @@
-### Hi there 👋
+# Profile
 
-<!--
-**wipeseals/wipeseals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in the intersection of hardware, software, and system reliability.  
+My name "wipeseals" comes from the cute image of seals being wiped.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipeseals&theme=transparent)
+
+![top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wipeseals&theme=transparent)
+
+## Link
+
+- [GitHub](https://github.com/wipeseals)
+- [Blog](https://blog.wipeseals.me)
+- [Work](https://blog.wipeseals.me/work/)
+- [Booth](https://wipeseals.booth.pm/)
+- [Zenn](https://zenn.dev/wipeseals)
+
+## Contact
+
+- [Mail](mailto:wipeseals+contact@gmail.com)
+- [Bluesky](http://bsky.wipeseals.me/)
