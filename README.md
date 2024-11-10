@@ -3,7 +3,5 @@
 ## Link
 
 - [GitHub](https://github.com/wipeseals)
-- [Zenn](https://zenn.dev/wipeseals)
+- [Blog](https://blog.wipeseals.me)
 - [Bluesky](https://bsky.app/profile/azarashi.moe)
-- [Twitter](https://twitter.com/wipeseals)
-- [Misskey.io](https://misskey.io/@wipeseals)
