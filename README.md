@@ -1,7 +1,20 @@
-![profile image](https://avatars.githubusercontent.com/u/161847788?s=128&v=4)
+# WiPeseals Profile
 
-## Link
+## Speciality
+
+- Semiconductor Failure Analysis
+- Semiconductor Reliability
+- Quality Assurance
+- Circuit Design
+- Embedded System
+- Multi-core System
+- Storage System
+
+## Links
 
 - [GitHub](https://github.com/wipeseals)
 - [Blog](https://blog.wipeseals.me)
+
+## Contact
+
 - [Bluesky](https://bsky.app/profile/azarashi.moe)
