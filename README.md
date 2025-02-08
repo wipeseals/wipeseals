@@ -14,6 +14,7 @@
 
 - [GitHub](https://github.com/wipeseals)
 - [Blog](https://blog.wipeseals.me)
+- [Booth](https://wipeseals.booth.pm/)
 
 ## Contact
 
