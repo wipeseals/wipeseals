@@ -18,4 +18,4 @@
 
 ## Contact
 
-- [Bluesky](https://bsky.app/profile/azarashi.moe)
+- [Bluesky](http://bsky.wipeseals.me/)
