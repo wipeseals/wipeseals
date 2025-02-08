@@ -1,4 +1,4 @@
-# WiPeseals Profile
+# wipeseals Profile
 
 ## Speciality
 
