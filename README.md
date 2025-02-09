@@ -1,5 +1,3 @@
-# WiPeseals Profile
-
 ## Speciality
 
 - Semiconductor Failure Analysis
@@ -18,4 +16,5 @@
 
 ## Contact
 
+- [Mail](mailto:wipeseals+contact@gmail.com)
 - [Bluesky](http://bsky.wipeseals.me/)
