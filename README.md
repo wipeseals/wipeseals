@@ -1,3 +1,8 @@
+<div align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipeseals&theme=transparent" alt="profile details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wipeseals&theme=transparent" alt="top languages"/>
+</div>
+
 ## Speciality
 
 - Semiconductor Failure Analysis
