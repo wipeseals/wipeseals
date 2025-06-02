@@ -1,8 +1,8 @@
 # Profile
 
-![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipeseals&theme=transparent)
-
-![top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wipeseals&theme=transparent)
+|||
+|-|-|
+|![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipeseals&theme=transparent)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wipeseals&layout=compact&theme=transparent)|
 
 ## Speciality
 
