@@ -32,6 +32,7 @@
 
 - [GitHub](https://github.com/wipeseals)
 - [Blog](https://blog.wipeseals.me)
+- [Work](https://blog.wipeseals.me/work/)
 - [Booth](https://wipeseals.booth.pm/)
 - [Zenn](https://zenn.dev/wipeseals)
 
