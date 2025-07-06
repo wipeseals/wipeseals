@@ -1,5 +1,7 @@
 # Profile
 
+I'm interested in the intersection of hardware, software, and system reliability.
+
 ![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipeseals&theme=transparent)
 
 ![top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wipeseals&theme=transparent)
@@ -27,6 +29,7 @@
 - Rust
 - TypeScript
 - JavaScript
+- Zig
 
 ## Links
 
