@@ -12,10 +12,8 @@ I'm interested in the intersection of hardware, software, and system reliability
 - Semiconductor Reliability
 - Quality Assurance
 - Circuit Design
-- FPGA HDL Design
-- Web-based Analysis Tool Development
+- FPGA RTL Design
 - Embedded System
-- Multi-core System
 - Storage System
 
 ## Programming Languages
@@ -24,7 +22,6 @@ I'm interested in the intersection of hardware, software, and system reliability
 - Embedded C/C++
 - Python
 - Verilog HDL
-- Scala
 - C#
 - Rust
 - TypeScript
