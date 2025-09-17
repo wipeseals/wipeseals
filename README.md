@@ -1,6 +1,8 @@
 # Profile
 
-I'm interested in the intersection of hardware, software, and system reliability.
+I'm interested in the intersection of hardware, software, and system reliability.  
+My name "wipeseals" comes from the cute image of seals being wiped.
+
 
 ![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wipeseals&theme=transparent)
 
