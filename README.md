@@ -8,29 +8,7 @@ My name "wipeseals" comes from the cute image of seals being wiped.
 
 ![top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wipeseals&theme=transparent)
 
-## Speciality
-
-- Semiconductor Failure Analysis
-- Semiconductor Reliability
-- Quality Assurance
-- Circuit Design
-- FPGA RTL Design
-- Embedded System
-- Storage System
-
-## Programming Languages
-
-- C/C++
-- Embedded C/C++
-- Python
-- Verilog HDL
-- C#
-- Rust
-- TypeScript
-- JavaScript
-- Zig
-
-## Links
+## Link
 
 - [GitHub](https://github.com/wipeseals)
 - [Blog](https://blog.wipeseals.me)
